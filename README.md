@@ -1,1 +1,3 @@
-# assignment-5-ap3901
+# Digits Dataset
+# Fashion MNIST Dataset
+# Malaria Cell Classification
